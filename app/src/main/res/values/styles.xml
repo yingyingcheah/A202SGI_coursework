@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- Light/Day Mode theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FF8303</item>
+        <item name="colorPrimaryDark">#FE6E00</item>
+        <item name="colorAccent">#FFAF42</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="drawerArrowStyle">@style/DrawerIconStyle</item>
+    </style>
+
+    <style name="DrawerIconStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">#FFAF42</item>
+    </style>
+
+</resources>

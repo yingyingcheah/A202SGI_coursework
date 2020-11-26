@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297393217271",
+    "firebase_url": "https://moneysaver-699d2.firebaseio.com",
+    "project_id": "moneysaver-699d2",
+    "storage_bucket": "moneysaver-699d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297393217271:android:c79c786ef0e37430d07df2",
+        "android_client_info": {
+          "package_name": "com.example.yingying.moneysaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297393217271-67qgbq06foch9m7tn41ileneunk6rs0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yingying.moneysaver",
+            "certificate_hash": "4952e16a7425cb278947d400712d3fbfbc10ec8b"
+          }
+        },
+        {
+          "client_id": "297393217271-mdrmnf55qc1cr4lcf4iarseaes8n3f3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5r_5JzY_7lcyUTKJk6c45weO5qI0SUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297393217271-mdrmnf55qc1cr4lcf4iarseaes8n3f3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

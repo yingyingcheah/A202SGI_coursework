@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navmenu_dashboard"
+        android:title="@string/dashboard_label"
+        android:icon="@drawable/ic_dashboard" />
+
+    <item
+        android:id="@+id/navmenu_income"
+        android:title="@string/income_label"
+        android:icon="@drawable/ic_income" />
+
+    <item
+        android:id="@+id/navmenu_expense"
+        android:title="@string/expense_label"
+        android:icon="@drawable/ic_expense" />
+
+    <item
+        android:id="@+id/navmenu_chart"
+        android:title="@string/chart_label"
+        android:icon="@drawable/ic_piechart" />
+
+    <item
+        android:id="@+id/navmenu_reminder"
+        android:title="@string/reminder_label"
+        android:icon="@drawable/ic_reminder"/>
+
+</menu>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Money Saver</string>
+
+    <string name="title_label">Title</string>
+    <string name="category_label">Category</string>
+    <string name="amount_label">Amount</string>
+    <string name="date_label">Date</string>
+    <string name="remarks_label">Remarks</string>
+    <string name="save_label">SAVE</string>
+    <string name="cancel_label">CANCEL</string>
+    <string name="update_label">UPDATE</string>
+    <string name="delete_label">DELETE</string>
+
+    <string name="navigation_drawer_open">Open the navigation</string>
+    <string name="navigation_drawer_close">Close the navigation</string>
+
+    <!-- Fragment -->
+    <string name="dashboard_label">Dashboard</string>
+    <string name="dashboard_balance_label">Balance</string>
+    <string name="income_label">Income</string>
+    <string name="expense_label">Expense</string>
+    <string name="chart_label">Chart</string>
+
+    <!-- Chart -->
+    <string name="chart_table_label">Percentage of Income and Expense (%) :</string>
+
+    <string name="reminder_label">Reminder</string>
+
+    <!-- Reminder -->
+    <string name="description_label">Description</string>
+    <string name="reminder_scheduleNotification_label">SCHEDULE NOTIFICATION</string>
+
+</resources>
